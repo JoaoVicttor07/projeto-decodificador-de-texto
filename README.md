@@ -19,7 +19,7 @@ Bem-vindo ao Projeto Decodificador de Texto! Este é um projeto desenvolvido em 
 
 # Como usar
 <ol>
-  <li>Acesse a aplicação <a href=" ">clicando aqui</a></li>
+  <li>Acesse a aplicação <a href="https://joaovicttor07.github.io/projeto-decodificador-de-texto/">clicando aqui</a></li>
   <li>Digite a mensagem no campo de entrada.</li>
   <li>Clique no botão "Criptografar" para ver o resultado.</li>
   <li>Clique no botão "Copiar" para copiar o texto criptografado.</li>
